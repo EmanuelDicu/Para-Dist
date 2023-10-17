@@ -1,0 +1,9 @@
+[submodule "POSIX-MapReduce"]
+	path = POSIX-MapReduce
+	url = https://github.com/EmanuelDicu/POSIX-MapReduce
+[submodule "MPI-Collab"]
+	path = MPI-Collab
+	url = https://github.com/EmanuelDicu/MPI-Collab
+[submodule "MPMC-Marketplace"]
+	path = MPMC-Marketplace
+	url = https://github.com/EmanuelDicu/MPMC-Marketplace.git
